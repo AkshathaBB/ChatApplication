@@ -262,7 +262,6 @@ class  loginDialog extends Dialog implements ActionListener{
 	
 }
 
-
 //HashMap<String, InetAddress> list = new HashMapt();
 //for (i=0; i< ; i++){
 //	InetAddress inetAddress =InetAddress.getByName(""+10.);//get the host Inet using ip
