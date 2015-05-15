@@ -165,9 +165,6 @@ class messageThread extends Thread{
   }
 
 }
-
-
-
   public static void main(String args[])
   {
 	  MultiChatServer mcs = new MultiChatServer();
